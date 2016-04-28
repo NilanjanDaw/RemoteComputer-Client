@@ -9,7 +9,7 @@ Folder RemoteComputer contains the android application code. The code has been c
 </p>
 <br>
 
-<Server side code: <a href="https://github.com/NilanjanDaw/RemoteComputer-Server">Server Side</>
+<b>Server side code: <a href="https://github.com/NilanjanDaw/RemoteComputer-Server">Server Side</a>
 <b> The project has been tested using a Computer System running Windows 10, which acted as the target Server and a 
 Mobile device running Android version 5.1.0 which acted as the client.</b>
 
