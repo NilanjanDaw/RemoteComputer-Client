@@ -7,11 +7,11 @@ Folder RemoteComputer contains the android application code. The code has been c
 <br>Android studio v1.4 has been used as the IDE for the development.
 <br>JDK v1.8u60 has been used for code compilation.
 </p>
-<br>
-
 <b>Server side code: <a href="https://github.com/NilanjanDaw/RemoteComputer-Server">Server Side</a>
-<br  />
-<b> The project has been tested using a Computer System running Windows 10, which acted as the target Server and a 
+<p>
+![Working](working.png)
+</p>
+<b>The project has been tested using a Computer System running Windows 10, which acted as the target Server and a 
 Mobile device running Android version 5.1.0 which acted as the client.</b>
 
 <b>NB. Modifications and bug fixes will be greatfully acknowledged.
