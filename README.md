@@ -3,7 +3,7 @@ This project allows an user to fully control a computer remotely over a wi-fi ne
 <br>
 <b>Android Side</b>
 <p>
-Folder RemoteComputer contains the android application code. The code has been compiled using android SDK 21, and needs a mobile device running android v5.0 to work. However lower versions maybe supported, for that the minSDK in the Manifest file must be change accordingly.
+Folder RemoteComputer contains the android application code. The code has been compiled using android SDK 21, and needs a mobile device running android v5.0 to work. However lower versions maybe supported, for that the minSDK in the Manifest file must be changed accordingly.
 <br>Android studio v1.4 has been used as the IDE for the development.
 <br>JDK v1.8u60 has been used for code compilation.
 </p>
